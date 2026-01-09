@@ -1,0 +1,38 @@
+<Module>
+  <ModulePrefs title="Moto X3M Pool Party" height="600" scrolling="false"/>
+
+  <Content type="html">
+    <![CDATA[
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+  <title>Moto X3M Pool Party</title>
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      width: 100%;
+      height: 100%;
+      background: #000;
+      overflow: hidden;
+    }
+    iframe {
+      width: 100vw;
+      height: 100vh;
+      border: none;
+    }
+  </style>
+</head>
+<body>
+  <iframe
+    src="https://www.poki.com/en/g/moto-x3m-pool-party"
+    allowfullscreen
+    allow="fullscreen; autoplay">
+  </iframe>
+</body>
+</html>
+    ]]>
+  </Content>
+</Module>
